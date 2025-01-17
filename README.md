@@ -1,6 +1,6 @@
 # An Analysis of Model Robustness across Concurrent Distribution Shifts
 ### by Myeungho Jeon*, Suhwan Choi*, Hyoje Lee, Teresa Yeo
-Official implementation of our TMLR 2025 paper. This repository builds upon [DomainBed](https://github.com/facebookresearch/DomainBed).
+Official implementation of our TMLR paper. This repository builds upon [DomainBed](https://github.com/facebookresearch/DomainBed).
 
 
 ![Overview](diagram.png)
